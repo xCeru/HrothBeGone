@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+  <PropertyGroup>
+    <Version>0.1.0.0</Version>
+    <Author>Local Developer</Author>
+    <Name>HrothBeGone</Name>
+    <Punchline>Locally replace loaded Hrothgar with another race.</Punchline>
+    <Description>Changes loaded Hrothgar player and human NPC appearances locally. Supports a fixed target race or per-actor random race selection.</Description>
+    <RepoUrl>https://github.com/xCeru/HrothBeGone</RepoUrl>
+    <Tags>appearance;race;hrothgar;visual;local</Tags>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+</Project>
